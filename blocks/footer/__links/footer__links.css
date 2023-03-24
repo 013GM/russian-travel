@@ -11,6 +11,6 @@
 		row-gap: 32px;
 		column-gap: 0;
 		/* height: 200px; */
-		width: 186px;
+		max-width: 460px;
 	}
 }
