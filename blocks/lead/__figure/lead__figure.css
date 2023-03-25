@@ -3,14 +3,4 @@
 	width: 100%;
 }
 
-@media screen and (max-width: 1279px) {
-	.lead__image {
-		padding-top: 56px;
-	}
-}
 
-@media screen and (max-width: 768px) {
-	.lead__figure {
-		width: 100%;
-	}
-}
